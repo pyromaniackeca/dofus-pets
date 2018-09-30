@@ -8,7 +8,7 @@
 - Location - []
 - Items - 10 Airworm
 
-## Earth Bwack - []
+## Earth Bwack
 - Location - []
 - Items - 10 Earthworm
 

@@ -5,19 +5,19 @@
 - Items - 50 Kickroach Leg
 
 ## Air Bwack
-- Location - []
+- Location - [-5, -7]
 - Items - 10 Airworm
 
 ## Earth Bwack
-- Location - []
+- Location - [-1, -8]
 - Items - 10 Earthworm
 
 ## Water Bwack
-- Location - []
+- Location - [-5, -9]
 - Items - 10 Waterworm
 
 ## Fire Bwack
-- Location - []
+- Location - [-6, -9]
 - Items - 10 Fireworm
 
 ## Scarakiri

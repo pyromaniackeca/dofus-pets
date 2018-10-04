@@ -31,3 +31,7 @@
 ## Little Black Bow Wow
 - Location - [32, -30] (Inside house)
 - Items - 5 Daggero's Nappy
+
+## Bow Meow
+- Location - [2, -34] (Dungeon exit)
+- Items - 5 Gobball Wool

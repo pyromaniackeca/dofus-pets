@@ -27,3 +27,7 @@
 ## Minifoux
 - Location - [28, -46]
 - Items - 20 Agathe
+
+## Little Black Bow Wow
+- Location - [32, -30] (Inside house)
+- Items - 5 Daggero's Nappy

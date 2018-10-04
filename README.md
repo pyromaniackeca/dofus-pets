@@ -23,3 +23,7 @@
 ## Scarakiri
 - Location - [-40, -16]
 - Items - 5 Deminoball Horn, 5 Mumminotoror Horn
+
+## Minifoux
+- Location - [28, -46]
+- Items - 20 Agathe

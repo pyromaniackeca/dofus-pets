@@ -35,3 +35,15 @@
 ## Bow Meow
 - Location - [2, -34] (Dungeon exit)
 - Items - 5 Gobball Wool
+
+## Bulbutting
+- Location - [19, -22]
+- Items - 5 Bulbig Brotha Magic Bark, 50 Water Pandawushu Artefact
+
+## Green Piwin
+- Location - [11, -11]
+- Items - 500 Green Piwi feather
+
+## Ghast
+- Location - [-13, -41]
+- Items - 10 Boostoplasm

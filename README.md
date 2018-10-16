@@ -51,3 +51,7 @@
 ## Borbat
 - Location - [9, 15]
 - Items - 30 Vampire Straw
+
+## Mini Wa
+- Location - [24, -8]
+- 20 Cuwsed Cawwot, 50 Wabbit Bolt

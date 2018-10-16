@@ -47,3 +47,7 @@
 ## Ghast
 - Location - [-13, -41]
 - Items - 10 Boostoplasm
+
+## Borbat
+- Location - [9, 15]
+- Items - 30 Vampire Straw

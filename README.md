@@ -55,3 +55,7 @@
 ## Mini Wa
 - Location - [24, -8]
 - 20 Cuwsed Cawwot, 50 Wabbit Bolt
+
+## Tanuk
+- Location - [32, -38]
+- 5 Tanukoui San Testicles, 50 Earth Pandawushu Artefact

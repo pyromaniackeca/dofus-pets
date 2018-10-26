@@ -59,3 +59,7 @@
 ## Tanuk
 - Location - [32, -38]
 - 5 Tanukoui San Testicles, 50 Earth Pandawushu Artefact
+
+## Croum
+- Location - [16, 21]
+- 10 Emeral, 10 Crystal

@@ -63,3 +63,7 @@
 ## Croum
 - Location - [16, 21]
 - 10 Emeral, 10 Crystal
+
+## Bworky
+- Location - [-6, 9]
+- 500 Bwork beer
